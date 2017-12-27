@@ -4,7 +4,11 @@
 #### InheritedSwipeRefreshLayout derives from original SwipeRefreshLayout, replacing circular-refresh view with a customed header view.
 
 ## Screenshot
-![demo1](/screenshots/demo1.gif)
+<a href="" target="_blank">
+  <img alt=""
+       src="/screenshots/demo1.gif"
+       width="40%">
+</a>
 
 
 
